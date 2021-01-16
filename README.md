@@ -34,7 +34,7 @@ No Category:
 
 # To host it yourself
 Just change the CONSTANTS file to whatever you want, change the userID in the if check in the main file to whoever's userID you want
-I host the bot on heroku, with heroku-postgres as the databse
-Just connect a database to your app on heroku and deploy the code with necessary changes and you're good to go!
 
-do whatever the fuck you want with the code just give me credits :flushed:
+I host the bot on heroku, with heroku-postgres as the databse. Just connect a database to your app on heroku and deploy the code with necessary changes and you're good to go!
+
+Do whatever the fuck you want with the code just give me credits :flushed:
