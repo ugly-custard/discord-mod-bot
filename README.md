@@ -1,5 +1,5 @@
-# dunno-man-I-m-bad-at-naming
-a discord mod bot with logging features, mod commands, youtube upload notifications, and some random crappy commands
+# Discord Mod Bot
+A discord mod bot with logging features, mod commands, youtube upload notifications, and some random crappy commands
 
 # commands
 
